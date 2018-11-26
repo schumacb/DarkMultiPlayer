@@ -425,7 +425,7 @@ namespace DarkMultiPlayerCommon
                 "RelayAntenna5",
                 "RelayAntenna50",
                 "HeatShield0",
-                // 1.3 part
+                // 1.3 parts
                 "InfraredTelescope",
                 // 1.4.0 parts
                 "kerbalEVAVintage",
